@@ -33,9 +33,16 @@ gradually tightens as the level rises.
 
 ## Install
 
-This repository is published through the Tildagon App Store using the
-`tildagon-app` GitHub topic. New releases normally appear in the store within
-15 minutes.
+Ethan's Quest is listed at
+[apps.badge.emfcamp.org/apps/41134142](https://apps.badge.emfcamp.org/apps/41134142/)
+with install code **`41134142`**.
+
+1. Connect the badge to Wi-Fi.
+2. Open **App Store > CodeInstall** (called **Use Code** on some firmware).
+3. Enter `41134142` and install **Ethan's Quest**.
+
+The App Store discovers this repository through the `tildagon-app` topic. New
+releases normally appear within 15 minutes.
 
 For a direct USB development install, copy `app.py`, `quest.py`, `lights.py`,
 and development launcher metadata into an isolated `/apps/ethans_quest`
