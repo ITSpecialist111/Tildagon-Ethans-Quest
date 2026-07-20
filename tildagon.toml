@@ -1,0 +1,18 @@
+[app]
+name = "Ethan's Quest"
+category = "Games"
+menu = "Apps"
+
+[entry]
+class = "EthansQuestApp"
+
+[metadata]
+author = "Graham Hosking"
+license = "MIT"
+url = "https://github.com/ITSpecialist111/Tildagon-Ethans-Quest"
+description = "Light-guided reflex RPG with animated enemies, escalating button sequences, and victory and defeat effects."
+version = "0.2.0"
+
+[[metadata.capabilities]]
+required = true
+feature = { type = "TildagonOSMinimumVersion", version = "2.0.0" }
